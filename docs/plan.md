@@ -63,6 +63,12 @@ Le web est son propre atelier - on peut regarder sous le capot en 1 clic
 * services de tests
 * chaine de déploiement en ligne  
 
+## Contribuer sur le web
+* sur quels sites : fermes, platerformes, personnelles
+* multimédia
+* encourager la contribution
+
+
 ## Histoire du web
 
 ## Apprendre et teste par et avec le web
