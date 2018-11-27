@@ -51,7 +51,7 @@ des espaces qui interfèrent
 * transformation de modèles
 * Derrière une technologie
     * des gens
-    * des organisations - associations, entreprises ... 
+    * des organisations - associations, entreprises ...
     * donc des choix, des valeurs
 
 ## Manipuler les Technologies
@@ -66,6 +66,9 @@ Le web est son propre atelier - on peut regarder sous le capot en 1 clic
 ## Histoire du web
 
 ## Apprendre et teste par et avec le web
+* Pratiquer, choisir ses apprentissages
+* Partager, faire avec les autres
+* EAP, PLE
 
 ## Sources principales
 * Wikipedia
